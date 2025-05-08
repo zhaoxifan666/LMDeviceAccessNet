@@ -1,0 +1,11 @@
+framework module LMDeviceAccessNet {
+  umbrella header "LMDeviceAccessNet.h"
+  export *
+
+  module * { export * }
+}
+
+module LMDeviceAccessNet.Swift {
+  header "LMDeviceAccessNet-Swift.h"
+  requires objc
+}

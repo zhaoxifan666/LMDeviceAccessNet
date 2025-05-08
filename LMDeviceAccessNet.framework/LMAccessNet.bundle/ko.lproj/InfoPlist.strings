@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  AqaraHome
+
+  Created by ayanami on 2017/11/20.
+  Copyright © 2017年 MadHeart. All rights reserved.
+*/
+//"CFBundleDisplayName" = "Aqara Home";
+"NSHomeKitUsageDescription" = "이 앱이 HomeKit의 디바이스를 제어 및 지원하도록 허용";
+"NSCameraUsageDescription" = "앨범 권한을 오픈하지 않았습니다, 오픈하러 가시겠습니까?";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "위치 정보를 사용하여 더 낳은 서비스를 제공할 수 있도록 허영";
+"NSLocationWhenInUseUsageDescription" = "위치 정보를 사용하여 더 낳은 서비스를 제공할 수 있도록 허영";
+"NSPhotoLibraryUsageDescription" = "이 앱이 당신의 카메라를 사용하여 사진을 선택할 수 있도록 허용";
+"NSAppleMusicUsageDescription" = "이 앱이 당신의 멀티미디어를 사용하여 벨소리를 플레이할 수 있도록 허용";
+"NSBluetoothAlwaysUsageDescription" = "Allow the App use Bluetooth to provide better services";
+"NSBluetoothPeripheralUsageDescription" = "Allow the App use Bluetooth to provide better services";
+"Add_Device_Title" = "디바이스 추가";
+"Add_Automation_Title" = "자동화 추가";
+"Add_Scene_Title" = "장면 추가";
